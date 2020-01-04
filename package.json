@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "matrix-js-sdk": "^0.12.0-rc.1",
-    "npm": "^6.4.1",
+    "npm": "^6.13.4",
     "prompt": "^1.0.0",
     "transit-js": "^0.8.861",
     "web3": "^1.0.0-beta.35",
